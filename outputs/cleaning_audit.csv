@@ -1,0 +1,6 @@
+Check,Before,After,Status
+Total rows,25,24,Pass
+Duplicate Order IDs,1,0,Pass
+Incorrectly formatted dates,3,0,Pass
+Missing critical values,3,0,Pass
+Non-positive quantities,Mixed text/negative/zero values present,0,Pass

@@ -1,0 +1,26 @@
+Order ID,Order Date,Customer Name,City,Category,Quantity,Unit Price,Status
+ORD-1001,2026/01/05,aarav sharma, mumbai ,Electronics,2,$499.99,delivered
+ORD-1002,05-01-2026,riya mehta,Delhi,Home & Kitchen,1,1499,Delivered
+ORD-1003,Jan 7 2026,kabir singh,Bengaluru,Fashion,,799.50,shipped
+ORD-1004,2026-01-08,ananya rao,,Books,3,350,processing
+ORD-1005,08/01/2026,vihaan patel,Chennai,Electronics,1,not available,Delivered
+ORD-1006,2026.01.09,isha kapoor,Kolkata,,4,250,returned
+ORD-1007,2026-13-01,arjun nair,Pune,Sports,2,999,shipped
+ORD-1008,,meera iyer,Hyderabad,Fashion,1,1299,Delivered
+ORD-1009,2026/01/11, dev malhotra ,Ahmedabad,Books,two,450,processing
+ORD-1010,11 Jan 2026,zoya khan,Jaipur,Home & Kitchen,5,$199.99,delivered
+ORD-1011,2026-01-12,neel joshi,Lucknow,Electronics,-1,599.99,cancelled
+ORD-1012,2026/01/13,sara ali,Delhi,Fashion,2,850,Delivered
+ORD-1012,2026/01/13,sara ali,Delhi,Fashion,2,850,Delivered
+ORD-1013,14-01-2026,rohan das,Mumbai,Books,1,,shipped
+ORD-1014,2026-01-15,prisha sen,Bengaluru,Sports,3,1200,PROCESSING
+ORD-1015,2026/01/16,ayaan bose,Chennai,Electronics,2,750.25,delivered
+ORD-1016,16/01/2026,kavya menon,Kochi,Home & Kitchen,1,"$2,499.00",returned
+ORD-1017,2026-01-17,manav shah,Surat,Fashion,0,649,delivered
+ORD-1018,invalid-date,tara reddy,Hyderabad,Books,2,399,shipped
+ORD-1019,2026/01/18,om prakash,Patna,Sports,3,"1,099.99",Delivered
+ORD-1020,2026-01-19,nisha roy,Indore,Electronics,1,899.95,processing
+ORD-1021,19 Jan 2026,aditya verma,Nagpur,Home & Kitchen,2,299.49,shipped
+ORD-1022,2026/01/20,leela gupta,,Fashion,1,999,delivered
+ORD-1023,2026-01-21,karan arora,Delhi,Books,2,550,Delivered
+ORD-1024,21-01-2026,simran kaur,Mumbai,Sports,3,"$1,250.00",processing

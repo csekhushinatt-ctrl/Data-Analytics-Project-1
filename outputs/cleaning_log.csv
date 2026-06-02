@@ -1,0 +1,75 @@
+Order ID,Field,Action
+ORD-1012,Order ID,Duplicate row removed
+ORD-1007,Order Date,Invalid/missing date imputed as 2026-01-14
+ORD-1008,Order Date,Invalid/missing date imputed as 2026-01-14
+ORD-1018,Order Date,Invalid/missing date imputed as 2026-01-14
+ORD-1001,Customer Name,Text standardized or missing value filled
+ORD-1002,Customer Name,Text standardized or missing value filled
+ORD-1003,Customer Name,Text standardized or missing value filled
+ORD-1004,Customer Name,Text standardized or missing value filled
+ORD-1005,Customer Name,Text standardized or missing value filled
+ORD-1006,Customer Name,Text standardized or missing value filled
+ORD-1007,Customer Name,Text standardized or missing value filled
+ORD-1008,Customer Name,Text standardized or missing value filled
+ORD-1009,Customer Name,Text standardized or missing value filled
+ORD-1010,Customer Name,Text standardized or missing value filled
+ORD-1011,Customer Name,Text standardized or missing value filled
+ORD-1012,Customer Name,Text standardized or missing value filled
+ORD-1013,Customer Name,Text standardized or missing value filled
+ORD-1014,Customer Name,Text standardized or missing value filled
+ORD-1015,Customer Name,Text standardized or missing value filled
+ORD-1016,Customer Name,Text standardized or missing value filled
+ORD-1017,Customer Name,Text standardized or missing value filled
+ORD-1018,Customer Name,Text standardized or missing value filled
+ORD-1019,Customer Name,Text standardized or missing value filled
+ORD-1020,Customer Name,Text standardized or missing value filled
+ORD-1021,Customer Name,Text standardized or missing value filled
+ORD-1022,Customer Name,Text standardized or missing value filled
+ORD-1023,Customer Name,Text standardized or missing value filled
+ORD-1024,Customer Name,Text standardized or missing value filled
+ORD-1001,City,Text standardized or missing value filled
+ORD-1004,City,Text standardized or missing value filled
+ORD-1022,City,Text standardized or missing value filled
+ORD-1006,Category,Text standardized or missing value filled
+ORD-1001,Status,Text standardized or missing value filled
+ORD-1003,Status,Text standardized or missing value filled
+ORD-1004,Status,Text standardized or missing value filled
+ORD-1006,Status,Text standardized or missing value filled
+ORD-1007,Status,Text standardized or missing value filled
+ORD-1009,Status,Text standardized or missing value filled
+ORD-1010,Status,Text standardized or missing value filled
+ORD-1011,Status,Text standardized or missing value filled
+ORD-1013,Status,Text standardized or missing value filled
+ORD-1014,Status,Text standardized or missing value filled
+ORD-1015,Status,Text standardized or missing value filled
+ORD-1016,Status,Text standardized or missing value filled
+ORD-1017,Status,Text standardized or missing value filled
+ORD-1018,Status,Text standardized or missing value filled
+ORD-1020,Status,Text standardized or missing value filled
+ORD-1021,Status,Text standardized or missing value filled
+ORD-1022,Status,Text standardized or missing value filled
+ORD-1024,Status,Text standardized or missing value filled
+ORD-1003,Quantity,Converted to positive integer or imputed as 2
+ORD-1009,Quantity,Converted to positive integer or imputed as 2
+ORD-1011,Quantity,Converted to positive integer or imputed as 2
+ORD-1017,Quantity,Converted to positive integer or imputed as 2
+ORD-1001,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1002,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1003,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1004,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1005,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1006,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1007,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1008,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1009,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1010,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1012,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1013,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1014,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1016,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1017,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1018,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1019,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1022,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1023,Unit Price,Converted to numeric currency or imputed as 774.88
+ORD-1024,Unit Price,Converted to numeric currency or imputed as 774.88
